@@ -6,7 +6,7 @@ categories: ["creativity", "all-profile"]
 githubUsername: 'adamalston'
 ---
 
-[![Header](https://github.com/rpedros02/rpedros02/blob/main/bloggif_647f327a9724d.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Header](https://github.com/rpedros02/rpedros02/blob/main/header.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
 
