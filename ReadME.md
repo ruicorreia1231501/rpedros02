@@ -1,10 +1,10 @@
----
+<!-- ---
 title: AdamAlston
 date: 2020-29-08
 spoiler: Creativity Readme Template
 categories: ["creativity", "all-profile"]
 githubUsername: 'adamalston'
----
+--- -->
 
 [![Header](https://github.com/rpedros02/rpedros02/blob/main/header.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
@@ -56,6 +56,7 @@ githubUsername: 'adamalston'
 [![RGB Text Colorizer](https://img.shields.io/badge/-🌈&nbsp;&nbsp;RGB&nbsp;Text&nbsp;Colorizer-000000?style=flat)](https://github.com/adamalston/rgbTextColorizer) -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpedros02&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpedros02&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [AdamAlston](https://github.com/adamalston)
