@@ -5,8 +5,9 @@ spoiler: Creativity Readme Template
 categories: ["creativity", "all-profile"]
 githubUsername: 'adamalston'
 --- -->
+![image](https://github.com/rpedros02/rpedros02/assets/97447789/e8b0ae57-b738-4222-946c-9710a3a9ddaa)
 
-[![Header](https://github.com/rpedros02/rpedros02/blob/main/header.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 <!-- [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/) -->
 
